@@ -12,12 +12,12 @@
 
 ##
 
-<div style="display: inline-block">
-    <img  height="48px" width="48px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="margin-right: 10px;" /> 
-    <img  height="35px" width="35px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-    <img  height="48px" width="48px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-left: 200px;" /> 
-    <img  height="38px" width="38px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-</div>
+<p align="center">
+  <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="margin-right: 15px;"/>
+  <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="margin-right: 15px;"/>
+  <img height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="margin-right: 15px;"/>
+  <img height="38px" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+</p>
 
 ##
 
