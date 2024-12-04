@@ -1,5 +1,7 @@
-### Olá, Eu sou Vitor Hugo 
+### Olá, Eu sou Vitor Hugo ! 😉
 Apaixonado em aprender !
+
+### Contato
 
 <div> 
   <a href="https://www.instagram.com/vitor__vie1ra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
