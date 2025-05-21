@@ -9,8 +9,6 @@ Apaixonado em aprender !
   <a href="https://www.linkedin.com/in/vitor-hugo-vieira-de-lima-a2286a244" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br/>
 
-- 🔭 Atualmente procuro espaço no mercado <br/>
-- 🌱 Estou estudando API Rest com Java e Spring
 <br/>
   
 <a href="https://github.com/vitorvieirah/github-readme-stats">
